@@ -29,5 +29,4 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asadsanto10&show_icons=true&theme=radical"/><br />
 
 
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=asadsanto10&card_width=550)](https://github.com/asadsanto10/asadsanto10)
+[//]: [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=asadsanto10&card_width=550)](https://github.com/asadsanto10/asadsanto10)
